@@ -1,19 +1,19 @@
-x= 5
+x = 5
 print(x)
 print(type(x))
 
-x= 5.5
+x = 5.5
 print(x)
 print(type(x))
 
-x= True
+x = True
 print(x)
 print(type(x))
 
-x= "x"
+x = "x"
 print(x)
 print(type(x))
 
-x= 5j
+x = 5j
 print(x)
 print(type(x))
